@@ -36,5 +36,5 @@
 
 ### 📫 Como falar comigo:
 - LinkedIn: [linkedin.com/in/matheus-pereira-goudinho-772083291](https://www.linkedin.com/in/matheus-pereira-goudinho-772083291)
-- E-mail: `seuemail@exemplo.com`
+- E-mail: mpg-sg@hotmail.com
 

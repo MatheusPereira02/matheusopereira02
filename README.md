@@ -1,21 +1,40 @@
-## Olá! Eu sou o Matheus Pereira  🖐️
+<h1 align="center">Olá! 👋 Eu sou o Matheus Goudinho</h1>
 
+<p align="center">
+  💻 Apaixonado por tecnologia, desenvolvimento e soluções criativas.<br>
+  🎯 Em busca constante de aprendizado e evolução como desenvolvedor.
+</p>
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MatheusPereira-xp6bl/featured)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheuspereiragoudinho/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/maaathpereira)
+---
 
-## Tecnologias que eu uso no meu dia
+### 🚀 Tecnologias e Ferramentas que uso:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+---
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+### 🧠 Em aprendizado:
+- TypeScript
+- Banco de Dados (PostgreSQL / MongoDB)
+- Testes automatizados
 
+---
+
+### 📌 Projetos em destaque:
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Nome do Projeto 1](#) | Breve descrição do que ele faz | React, Node.js |
+| [Nome do Projeto 2](#) | Descrição + diferencial | HTML, CSS, JS |
+| [Portfólio Pessoal](#) | Meu site com meus contatos e projetos | HTML, React |
+
+---
+
+### 📫 Como falar comigo:
+- LinkedIn: [linkedin.com/in/matheus-pereira-goudinho-772083291](https://www.linkedin.com/in/matheus-pereira-goudinho-772083291)
+- E-mail: `seuemail@exemplo.com`
 

@@ -28,9 +28,10 @@
 ### 📌 Projetos em destaque:
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Site de Apostas Esportivas](#) | Plataforma web simulando apostas esportivas, com login de usuários e interação dinâmica. | HTML, CSS, JavaScript, PHP, SQL |
-| [Sistema de Estacionamento em Java](#) | Sistema para controle de vagas e fluxo de veículos em estacionamento. | Java, HTML, CSS, JavaScript |
-| [Gerador de Senha](#) | Site pessoal com contatos e projetos, incluindo gerador de senhas. | HTML, React |
+| [Site de Apostas Esportivas](https://github.com/MatheusPereira02/SistemaApostasEsportivas) | Plataforma web simulando apostas esportivas, com login de usuários e interação dinâmica. | HTML, CSS, JavaScript, PHP, SQL |
+| [Sistema de Estacionamento em Java](https://github.com/MatheusPereira02/SistemaEstacionamento-) | Sistema para controle de vagas e fluxo de veículos em estacionamento. | Java, HTML, CSS, JavaScript |
+| [Gerador de Senha](https://github.com/MatheusPereira02/Gerador-de-Senha-) | Um gerador de senhas seguro, responsivo e personalizável, feito com HTML, CSS e JavaScript.
+Permite ao usuário escolher o tamanho da senha, os tipos de caracteres e ainda exibe a força da senha gerada (Fraca, Média ou Forte). | HTML, CSS, JavaScript |
 
 ---
 

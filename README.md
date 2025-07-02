@@ -27,11 +27,10 @@
 
 ### 📌 Projetos em destaque:
 | Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Site de Apostas Esportivas ](#) | Sistema web que simula uma plataforma de apostas esportivas.  
-Permite a visualização de jogos disponíveis, login de usuários e interação com a interface. |Html, CSS, JavaScript, PHP, SQL|
-| [Nome do Projeto 2](#) | Descrição + diferencial | HTML, CSS, JS |
-| [Portfólio Pessoal](#) | Meu site com meus contatos e projetos | HTML, React |
+|---------|-----------|-------------|
+| [Site de Apostas Esportivas](#) | Plataforma web simulando apostas esportivas, com login de usuários e interação dinâmica. | HTML, CSS, JavaScript, PHP, SQL |
+| [Sistema de Estacionamento em Java](#) | Sistema para controle de vagas e fluxo de veículos em estacionamento. | Java, HTML, CSS, JavaScript |
+| [Gerador de Senha](#) | Site pessoal com contatos e projetos, incluindo gerador de senhas. | HTML, React |
 
 ---
 

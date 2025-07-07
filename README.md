@@ -30,8 +30,9 @@
 |---------|-----------|-------------|
 | [Site de Apostas Esportivas](https://github.com/MatheusPereira02/SistemaApostasEsportivas) | Plataforma web simulando apostas esportivas, com login de usuários e interação dinâmica. | HTML, CSS, JavaScript, PHP, SQL |
 | [Sistema de Estacionamento em Java](https://github.com/MatheusPereira02/SistemaEstacionamento-) | Sistema para controle de vagas e fluxo de veículos em estacionamento. | Java, HTML, CSS, JavaScript |
-| [Gerador de Senha](https://github.com/MatheusPereira02/Gerador-de-Senha-) | Um gerador de senhas seguro, responsivo e personalizável, feito com HTML, CSS e JavaScript.
-Permite ao usuário escolher o tamanho da senha, os tipos de caracteres e ainda exibe a força da senha gerada (Fraca, Média ou Forte). | HTML, CSS, JavaScript |
+| [Gerador de Senha](https://github.com/MatheusPereira02/Gerador-de-Senha-) | Permite ao usuário escolher o tamanho da senha, os tipos de caracteres e ainda exibe a força da senha gerada (Fraca, Média ou Forte). | HTML, CSS, JavaScript |
+| [Calculadora](https://github.com/MatheusPereira02/CalculadoraResponsiva) | Uma calculadora moderna, responsiva e estilizada, feita com HTML, CSS e JavaScript puros.
+
 
 ---
 
